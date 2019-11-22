@@ -6,3 +6,6 @@ Follow the [instructions](https://github.com/LEARNAcademy/Syllabus/blob/master/t
 
 
 Make changes to this file here:
+
+Sunny Day
+What are you going to work on this weekend?
